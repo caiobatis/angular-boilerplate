@@ -1,13 +1,14 @@
 # iOa
 
-Modelo de Projeto em Angular. 
+Angular Boilerplate
+
 
 ## Getting Started
 
 To begin, we run through our basic clone & install process:
 
-1. Clone the repo `git clone https://github.com/caiobatis/iOa`
-2. navigate into the project `cd iOa`
+1. Clone the repo `git clone https://github.com/caiobatis/angular-boilerplate`
+2. navigate into the project `cd angular-boilerplate`
 3. Install the NodeJS dependencies: `npm install`.
 4. Install the Bower dependencies: `bower install`.
 5. Run gulp serve to begin our development: `gulp serve`.
