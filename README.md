@@ -1,4 +1,4 @@
-# iOa
+# angular-boilerplate
 
 Angular Boilerplate
 
